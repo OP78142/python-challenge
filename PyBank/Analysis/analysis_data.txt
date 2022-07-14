@@ -1,0 +1,7 @@
+Financial Details
+--------------------------------------------
+Total Number of Months:  86
+Total dollar amount:  $22564198
+Mean Change:  $-8311.11
+Greatest Profit Increase:  Aug-16 ($1862002)
+Greatest Loss Decrease:  Feb-14 ($-1825558)
